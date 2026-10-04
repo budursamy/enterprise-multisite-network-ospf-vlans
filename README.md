@@ -6,7 +6,9 @@ A multi-site enterprise network built in Cisco Packet Tracer using VLANs, EtherC
 ![Network Topology](full-topology.png.)
 
 ## 🧪 Verification & Ping Tests
-![Ping Test Verification](ping-test.png.)
+![Ping Test Verification](ping-test.png.)### OSPF & Interface Status Verification
+![OSPF CLI Verification](ospf-cli-verification.png)
+
 
 ## 🛠️ Key Technologies & Features
 - **Dynamic Routing**: Configured OSPF across multiple sites for efficient network connectivity.
