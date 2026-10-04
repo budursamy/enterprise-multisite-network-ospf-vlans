@@ -8,7 +8,7 @@ A multi-site enterprise network built in Cisco Packet Tracer using VLANs, EtherC
 ## 🧪 Verification & Ping Tests
 
 ### Ping Test
-![Ping Test Verification](ping-test.png)
+![Ping Test Verification](ping-test.png.)
 
 ### OSPF & Interface Status Verification
 ![OSPF CLI Verification](ospf-cli-verification.png.png)
